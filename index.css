@@ -1,0 +1,63 @@
+.color{
+        color: rgb(147, 175, 145);
+        font-size: 20px;
+        align-content: center;
+}
+ .bluecolorclass{
+        color:blue;
+        fontsize=50pxl;
+        margin-top: 0%;
+        margin-inline: 0%;
+}
+body{
+    font-size: 80%;
+    min-width: 50%;
+    margin: auto;
+    color: grey;
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.face{
+    width: 100;
+    height: 100;
+    object-fit: cover;
+    border-radius: 300px;
+    margin: 20px;
+    align-content: center;
+}
+.title{
+    flex: 1;
+    margin-left: 20px;
+}
+.hrline{
+    border: 1px solid coral;
+    
+}
+ .classheading
+ {
+min-width: 300;
+display: block;
+line-height: 25px;
+ }
+ .headingstyle{
+     font-size: 20px;
+     color: coral;
+     display: block;
+line-height: 25px;
+    }
+.margin{
+    margin-top: 20px;
+}
+.Educlass{
+    font-size: 22px;
+    font-style: normal;
+    color: coral;
+    line-height: 40px;
+}
+.duration{
+    font-size: 15px;
+    color: red;
+}
